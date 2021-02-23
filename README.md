@@ -13,19 +13,23 @@ However, while the data has been regularly updated, the team has yet to implemen
 * March, April and May were chosen, as this may show changes in ridership as the weather warmed.
 
 * Ridership was first looked at by gender and age group.
+
 ![Image1](Images/1_Gender_month.png)
 
 * A possible anomaly with the data was noted in regard to reporting of birth year.
+ 
 ![Images](Images/2_Duration_and_year.png)
 
 ![Image3](Images/3_Share_by_group.png)
 
 * The most popular starting and ending locations were calculated and examined for type of cusotmers (subscriber vs. non-subscriber customer)
+
 ![Image4](Images/7_Top_vs_Bottom.png)
 
 ![Image5](Images/4_Subscribers_Customers.png)
 
 * Finally, the most and least popular stations were mapped and dashboards were created to display the above.
+
 ![Image6](Images/8_Map1.png)
 
 ![Image7](Images/9_Dashboard.png)
