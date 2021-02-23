@@ -13,7 +13,8 @@ However, while the data has been regularly updated, the team has yet to implemen
 * March, April and May were chosen, as this may show changes in ridership as the weather warmed.
 
 * Ridership was first looked at by gender and age group.
-* ![Image1](Images/1_Gender_month.png)
+![Image1](Images/1_Gender_month.png)
 
-![Images2](Images/2_Duration_and_year.png)
+![Images](Images/2_Duration_and_year.png)
 
+![Image3](Images/3_Share_by_group.png)
