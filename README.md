@@ -16,13 +16,13 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 ![Image1](Images/1_Gender_month.png)
 
-* A possible anomaly with the data was noted in regard to reporting of birth year.
+* A possible anomaly with the data was noted in regards to reporting of birth year.
  
 ![Images](Images/2_Duration_and_year.png)
 
 ![Image3](Images/3_Share_by_group.png)
 
-* The most popular starting and ending locations were calculated and examined for type of cusotmers (subscriber vs. non-subscriber customer)
+* The most popular starting and ending locations were calculated and examined for type of customers (subscriber vs. non-subscriber customer)
 
 ![Image4](Images/7_Top_vs_Bottom.png)
 
